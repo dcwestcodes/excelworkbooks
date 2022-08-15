@@ -1,4 +1,1 @@
-# excelworkbooks
-Excel workbooks that show off my skills
-
-Please click "radw data" to download Excel file.
+Here are some Excel workbooks that show off my Excel skills! In order to view the workbook, click the worbook name AND THEN click "View Raw" on the folling page. The workbook will download to your computer and then you will view the Excel wowrkbook on your computer.
